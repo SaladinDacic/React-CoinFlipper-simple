@@ -1,0 +1,18 @@
+.Coin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 20em;
+    height: 20em; */
+    /* border-radius: 50%;
+    border: 3px solid red; */
+    /* transform: translate(300px, 30px); */
+}
+
+.Coin-img{
+    width: 20em;
+    height: 20em;
+    border: 1px solid transparent;
+    border-radius: 50%;
+}
