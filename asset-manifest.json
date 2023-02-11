@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-CoinFlipper-simple/static/css/main.c79b15f3.chunk.css",
+    "main.js": "/React-CoinFlipper-simple/static/js/main.5153c939.chunk.js",
+    "main.js.map": "/React-CoinFlipper-simple/static/js/main.5153c939.chunk.js.map",
+    "runtime-main.js": "/React-CoinFlipper-simple/static/js/runtime-main.995cbe0f.js",
+    "runtime-main.js.map": "/React-CoinFlipper-simple/static/js/runtime-main.995cbe0f.js.map",
+    "static/js/2.9f604b52.chunk.js": "/React-CoinFlipper-simple/static/js/2.9f604b52.chunk.js",
+    "static/js/2.9f604b52.chunk.js.map": "/React-CoinFlipper-simple/static/js/2.9f604b52.chunk.js.map",
+    "static/js/3.24618090.chunk.js": "/React-CoinFlipper-simple/static/js/3.24618090.chunk.js",
+    "static/js/3.24618090.chunk.js.map": "/React-CoinFlipper-simple/static/js/3.24618090.chunk.js.map",
+    "index.html": "/React-CoinFlipper-simple/index.html",
+    "static/css/main.c79b15f3.chunk.css.map": "/React-CoinFlipper-simple/static/css/main.c79b15f3.chunk.css.map",
+    "static/js/2.9f604b52.chunk.js.LICENSE.txt": "/React-CoinFlipper-simple/static/js/2.9f604b52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.995cbe0f.js",
+    "static/js/2.9f604b52.chunk.js",
+    "static/css/main.c79b15f3.chunk.css",
+    "static/js/main.5153c939.chunk.js"
+  ]
+}
